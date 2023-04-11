@@ -1,2 +1,3 @@
 # Securing-the-Cloud-AWS-
-Creating IAM Users on AWS while following The Security Policy
+
+## Getting Stared with AWS Account And Creating Users With Security Best Pratises
